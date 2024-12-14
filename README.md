@@ -1,34 +1,3 @@
-<style>
-.github-stats {
-  display: flex;
-  justify-content: space-between;
-}
-
-.fav-tools {
-    display: flex;
-    justify-content: space-between;
-
-    /*border: 1px solid #e2e2e2;*/
-    /*border-radius: 5px;*/
-
-    div {
-        img {
-            height: 64px;
-        }
-        display: flex;
-        width: 96px;
-
-        flex-direction: column;
-        align-items: center;
-
-        border: 1px solid #e2e2e2;
-        border-radius: 5px;
-
-        padding: 5px;
-    }
-}
-</style>
-
 ## Metrics
 
 <img src="https://komarev.com/ghpvc/?username=n08i40k&label=Profile+views&style=flat&color=brightgreen" alt="Profile Views">
