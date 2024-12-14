@@ -27,8 +27,6 @@
         padding: 5px;
     }
 }
-
-.fav-tools
 </style>
 
 ## Metrics
