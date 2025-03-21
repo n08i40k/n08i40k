@@ -4,7 +4,7 @@
 
 ## Github stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=n08i40k&margin-w=5&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=n08i40k&margin-w=5&theme=darkhub&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div class="github-stats">
     <img alt="n08i40k's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n08i40k&langs_count=8&layout=compact&theme=transparent&hide_border=false&exclude_repo=FreezePlayer,AntiPvPLeave,RemoveBlockedItems,CreateChestLinkAddon,Buyer,AirDrops,Traps,CustomTNT,NPluginLocale,hexecuteif,NPluginConfig,CustomEnchantments,NPluginApi" height="192px"/>
